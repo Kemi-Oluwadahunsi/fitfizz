@@ -53,15 +53,15 @@ body {
   height: 742px;
 }
 
-.hero-banner-img {
+/* .hero-banner-img {
   position: absolute;
-  right: 40px;
+  right: 4px;
   top: 0px;
   width: 700px;
   height: 900px;
   margin-top: -330px;
 
-}
+} */
 
 .exercise-card {
   width: 400px;
@@ -122,9 +122,9 @@ body {
     position: static !important;
   }
 
-  .hero-banner-img {
+  /* .hero-banner-img {
     display: none;
-  }
+  } */
 
   .exercise-card {
     width: 320px;
